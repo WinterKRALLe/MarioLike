@@ -50,6 +50,17 @@ shoot={
 ]
 }
 
+[layer_names]
+
+2d_physics/layer_1="player"
+2d_physics/layer_2="ground"
+2d_physics/layer_3="enemy"
+2d_physics/layer_4="koopa_stomped"
+2d_physics/layer_5="obstacle"
+2d_physics/layer_6="bonus"
+2d_physics/layer_7="fireball"
+
 [rendering]
 
+textures/canvas_textures/default_texture_filter=0
 environment/defaults/default_clear_color=Color(0.0156863, 0.611765, 0.847059, 1)
